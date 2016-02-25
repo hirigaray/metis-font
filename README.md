@@ -1,4 +1,4 @@
-Metis
+![logo.png](https://raw.githubusercontent.com/kori-metis-font/master/logo.png)
 ------------
 A small bitmap font that fits my preferences.
 
